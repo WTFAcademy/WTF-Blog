@@ -4,7 +4,7 @@ This is a piece of an existing body of writing to help newcommers in web3.
 
 **Twitter**: [@Mofasasi](https://twitter.com/mofasasi)
 
-**Community**: [discord](https://discord.gg/eJvFfBE) | [Website wtf.academy](https://wtf.academy)  
+**Community**: [Discord](https://discord.gg/eJvFfBE) | [Website wtf.academy](https://wtf.academy)  
 
 -----
 
@@ -58,7 +58,7 @@ For example, we see this in Google assistant and Siri. One key feature is that u
 
 Much more, it is built for your content to find you. For example, autosuggestion. It picks the word from your mouth/fingers. Before you say/type it, it has popped up.
 
-# Another key feature Web3 advertises is De-centralization.
+**Another key feature Web3 advertises is De-centralization.**
 
 For instance, Mark Zuckerberg owns Facebook and he set the rules (this is centralization). This is not so on web 3.0. (Which Mark is working on, AKA Meta)
 
