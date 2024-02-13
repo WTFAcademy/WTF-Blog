@@ -1,10 +1,18 @@
-Airdrop is one of the ways to receive free money (in form of cryptocurrency) in Web3 
+# What are Airdrops?
+
+This is a piece of an existing body of writing to help newcomers in web3. 
+
+**Twitter**: [@Mofasasi](https://twitter.com/mofasasi)
+
+**Community**: [Discord](https://discord.gg/NszjsvgqkX) | [Website wtf.academy](https://wtf.academy)  
+
+-----
+
+Airdropping is one of the ways to receive free money (in form of cryptocurrency) in Web3 
 
 If you’re reading this, there is a high chance that at one moment or the other, someone (a friend, maybe) has told you how to get free cryptocurrency by receiving airdrops. They most likely would have also added ‘’It will only take a few simple tasks and you’ll have it in your wallet”. 
 
 How true is this? Let’s find out.
-
-## What is an Airdrop? 
 
 ![airdrop](./img/5-1.png)
 
