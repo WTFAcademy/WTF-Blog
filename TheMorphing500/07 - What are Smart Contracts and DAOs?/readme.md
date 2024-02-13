@@ -16,7 +16,7 @@ Traditional organizations typically have a setting where there are several worke
 
 ## Why are DAOs Created?
 
-![DAOs](./img/5-1.png)
+![DAOs](./img/7-1.png)
 
 Cripple Monopoly:
 
