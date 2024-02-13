@@ -1,3 +1,13 @@
+# NFTs explained to a 5-year-old
+
+This is a piece of an existing body of writing to help newcomers in web3. 
+
+**Twitter**: [@Mofasasi](https://twitter.com/mofasasi)
+
+**Community**: [Discord](https://discord.gg/NszjsvgqkX) | [Website wtf.academy](https://wtf.academy)  
+
+-----
+
 As you read this, someone somewhere is claiming to own something. A song, a photoshoot, a painting or even the right to love and whom to love. The list is endless.
 
 In most of these cases, the right of ownership is never actualized. Other times, they are actualized but with great effort and sweat.
