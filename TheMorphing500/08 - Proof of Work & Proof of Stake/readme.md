@@ -26,28 +26,28 @@ Every stake serves as a form of collateral and it must be greater than the ‘mi
 
 ![PoSPoW](./img/8-1.png)
 
-# Pros of PoW
+**Pros of PoW**
 
 Security: PoW is considered highly secure because it requires complex mathematical puzzles. It makes it difficult for malicious actors to take control of the network.
 
 Familiar and Tested: PoW has been extensively used and tested in cryptocurrencies like Bitcoin, proving its effectiveness and reliability over time.
 
-# Cons of PoW
+**Cons of PoW**
 
 Energy Consumption: PoW systems require significant computational power, leading to high energy consumption. This has raised concerns about environmental impact and sustainability. 
 
 Centralization Risks: Despite the intention of decentralization, PoW can sometimes result in mining centralization (called Mining pool), where a few powerful entities control a significant portion of the mining power.
 
-# Pros of PoS
+**Pros of PoS**
 
 Economic Incentives: PoS allows users to participate in and validate transactions based on the amount of cryptocurrency they hold. It aligns economic incentives and reduces the need for expensive mining equipment.
 
 Energy Efficiency: PoS requires significantly less energy compared to PoW since it doesn't rely on resource-intensive mining operations.
 
-# Cons of PoS
+**Cons of PoS**
 
 Potential for Centralization: PoS may lead to centralization if a small number of participants hold a significant portion of the cryptocurrency supply, as they have more influence over the network.
 
 Security Concerns: PoS introduces different security risks, such as the "nothing at stake" problem and the potential concentration of power in the hands of those with the most coins.
 
-That’s it, folks! If this helped you understand PoW and PoS some more, hit the like button. I’ll see you around!
+That’s it, folks! See you in the next one!
