@@ -69,7 +69,7 @@ Being banned, blocked or sanctioned is nothing to worry about. Users can post an
 That’s something, isn’t it?
 
 ## Summary
------
+
 In this piece, we discussed the evolution of the internet as a basis for understanding Web3. 
 
 **Post-Class Assignment**: Look through the internet for more examples of web1,2 & 3 platforms.
