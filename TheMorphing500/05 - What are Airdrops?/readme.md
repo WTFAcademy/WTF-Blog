@@ -62,4 +62,4 @@ Endnote:
 
 Airdrops are not to be dreaded. They are a great way to get free money but be sure not to disclose any information that could be used to scam you. Do your research and ask questions if you have any doubts ;)
 
-Let me know what you think in the comment section. I’ll be in touch. 
+See you in the next one! 
