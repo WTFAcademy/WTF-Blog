@@ -4,7 +4,7 @@ This is a piece of an existing body of writing to help newcommers in web3.
 
 **Twitter**: [@Mofasasi](https://twitter.com/mofasasi)
 
-**Community**: [Discord](https://discord.gg/eJvFfBE) | [Website wtf.academy](https://wtf.academy)  
+**Community**: [Discord](https://discord.gg/NszjsvgqkX) | [Website wtf.academy](https://wtf.academy)  
 
 -----
 
@@ -22,7 +22,7 @@ Examples below:
 
 Click here to have a feel of web 1.0: [elijahlist.com](https://www.elijahlist.com/index.php), a website created by Steve Shultz in 1997. Also, [Cameronsworld.net](https://www.cameronsworld.net/), the Cameron’s world archive from the 1990s.
 
-# web 2.0
+# Web 2.0
 
 It is also called the ‘‘Read-Write Web’’ or ‘‘Social Web’’ and here we are today (well, at least for now)
 
