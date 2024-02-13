@@ -10,7 +10,7 @@ This is a piece of an existing body of writing to help newcommers in web3.
 
 So, how exactly did we get to “Web 3.0”, the talk of the town? What better way to begin than from the basics?
 
-# web 1.0
+# Web 1.0
 
 World wide ‘Web’ 1.0 is the earliest version of the internet. It was notorious in the 20th century (1901 – 2000). You would say not too far from now, right? Right.
 
