@@ -1,6 +1,6 @@
-# The evolution of Internet 
+# The evolution of the Internet 
 
-This is a piece of an existing body of writing to help newcommers in web3. 
+This is a piece of an existing body of writing to help newcomers in web3. 
 
 **Twitter**: [@Mofasasi](https://twitter.com/mofasasi)
 
@@ -26,9 +26,9 @@ Click here to have a feel of web 1.0: [elijahlist.com](https://www.elijahlist.co
 
 It is also called the ‘‘Read-Write Web’’ or ‘‘Social Web’’ and here we are today (well, at least for now)
 
-It came with a shift in how the internet was used. We now enjoy a two-way communication. That is, you can do more than reading this post. You can comment, you can reply a comment. You can tell me if you understand what you’re reading or not. I’m able to know what to do better by also reading your comments and replies. In other words, there is more interaction, and this increases shared knowledge.
+It came with a shift in how the internet was used. We now enjoy two-way communication. That is, you'll be able to do more than reading this post. You can comment, and you can reply to a comment. You can tell me if you understand what you’re reading or not. I’m able to know what to do better by also reading your comments and replies. In other words, there is more interaction, and this increases shared knowledge.
 
-Examples include: YouTube, Wikipedia, Facebook, Twitter and Blogsites.
+Examples include: YouTube, Wikipedia, Facebook, Twitter and other sites.
 
 Wait for it . .  . .
 
@@ -40,7 +40,7 @@ Guess what? That’s not happening today and neither is it tomorrow. Hence, Web 
 
 ![example of web2.5](./img/1-2.png)
 
-Consider Web 2.5 as the wind breaker between the passing of 2.0 and the slow adoption of 3.0. It is the era of much learning and experimentation. Take for instance, the upsurge in decentralized projects. The same for Artificial Intelligence, Metaverse and acquiring digital assets, to mention a few.
+Consider Web 2.5 as the windbreaker between the passing of 2.0 and the slow adoption of 3.0. It is the era of much learning and experimentation. Take for instance, the upsurge in decentralized projects—the same for Artificial Intelligence, Metaverse, and acquiring digital assets, to mention a few.
 
 Here comes the big guy . . .
 
@@ -48,9 +48,9 @@ Here comes the big guy . . .
 
 This is called the “Read-Write-Execute Web’’.
 
-Machine learning and artificial intelligence pops up here. On Web 3.0, ML and AI helps internet users execute information.
+Machine learning and artificial intelligence pop up here. On Web 3.0, ML and AI help internet users execute information.
 
-For example, we see this in Google assistant and Siri. One key feature is that users find desired content faster. The internet and the users have a heightened interaction.
+For example, we see this in Google Assistant and Siri. One key feature is that users find desired content faster. The internet and the users have a heightened interaction.
 
 ![example of web2.5](./img/1-3.png)
 
@@ -60,7 +60,7 @@ Much more, it is built for your content to find you. For example, autosuggestion
 
 **Another key feature Web3 advertises is De-centralization.**
 
-For instance, Mark Zuckerberg owns Facebook and he set the rules (this is centralization). This is not so on web 3.0. (Which Mark is working on, AKA Meta)
+For instance, Mark Zuckerberg owns Facebook and he set the rules (this is centralization). This is not so on Web 3.0. (Which Mark is working on, AKA Meta)
 
 Everything on the internet will run on a decentralized platform e.g Blockchain (we'll talk about this soonest)
 
