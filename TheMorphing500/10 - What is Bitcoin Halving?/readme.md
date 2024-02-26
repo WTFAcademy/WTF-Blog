@@ -12,7 +12,7 @@ Bitcoin halving is an event that occurs approximately every 4 years where the re
 
 Now, who are the miners? Why do they mine the block? And why is their reward halved every 4 years? Let’s find out.
 
-![Miner](./img/10-1.png)
+![Miner](./img/10-1.jpg)
 
 # The Miners and Why They Mine
 
