@@ -37,4 +37,3 @@ Although not perfect, the impact of Web3 is already evident in various industrie
 That’ll be all for today. See you in the next one!
 
 Click here to read about [The Blockchain and how it works](https://github.com/WTFAcademy/WTF-Blog/tree/main/TheMorphing500/02%20-%20The%20Blockchain%20and%20How%20it%20Works)
-
