@@ -8,6 +8,8 @@ This is a piece of an existing body of writing to help newcomers in web3.
 
 -----
 
+Every year, on the 22nd day in May, cryptocurrency enthusiasts all over the world celebrate the first-ever real-world use case of Bitcoin. But how did that begin?
+
 On the 22nd of May, 2010, Bitcoin had its first real-world use case. A Florida programmer, Laszlo Hanyecz, bought 2 large pizzas for 10,000 bitcoins. At the time, bitcoin was not used as a medium of exchange, it was still in the very early stages. In fact, the 10k bitcoin was worth about $40. In contrast, 1 bitcoin is about $70k today.
 
 Laszlo had accrued bitcoin as a [miner’s reward](https://github.com/Mosamorphing/WTF-Blog/tree/main/TheMorphing500/10%20-%20What%20is%20Bitcoin%20Halving%3F#:~:text=Now%2C%20who%20are%20the%20miners%3F%20Why%20do%20they%20mine%20the%20block%3F) and thought of buying some pizzas with it. Remember, no one was taking Bitcoin as a medium of exchange, but he posted his request on a Bitcoin forum nonetheless.
