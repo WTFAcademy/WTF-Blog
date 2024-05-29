@@ -21,7 +21,6 @@ On the 18th of May, 2010, he wrote:
 *If you’re interested please let me know and we can work out a deal.*
 
 *Thanks,*
-
 *Laszlo.”*
 
 A few days later, on the 22nd, another member of the forum, Jeremy ‘Jercos’ Sturdivant, agreed to deal with Laszlo and accepted his 10k bitcoins for 2 large Papa John’s pizzas.
