@@ -28,7 +28,7 @@ A few days later, on the 22nd, another member of the forum, Jeremy ‘Jercos’ 
 
 Although Jercos paid for the Pizzas with his debit card, only facilitating the purchase, this is still recorded as the first documented purchase of physical goods with Bitcoin because from Laszlo’s view, he wanted pizzas for bitcoins, and that was exactly what happened.
 
-![Pizza](./img/10-1.jpg)
+![Pizza](./img/13-1.jpg)
 
 This first real-world use case solidified the idea of digital currencies as a medium of exchange of value. I saw a comment that said “This man crawled so we could walk”, I think so too!
 
@@ -48,5 +48,5 @@ Looking for our broker Jercos? I’m still looking too. If you find him before m
 
 From my hand to yours, Happy Bitcoin Pizza Day!
 
-![Pizza](./img/10-1.jpg)
+![Pizza](./img/13-2.jpg)
 
